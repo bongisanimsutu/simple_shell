@@ -1,3 +1,5 @@
+#include "shell.h"
+
 /**
  * bfree - releases a pointer and sets its address to NULL
  * @ptr: address of the pointer to release
